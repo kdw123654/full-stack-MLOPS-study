@@ -1,4 +1,4 @@
-# 📖 [제2강] 모던 파이썬 & 객체지향 설계(OOP) 및 Pydantic 데이터 검증
+# 📖 [제3강] 모던 파이썬 & 객체지향 설계(OOP) 및 Pydantic 데이터 검증
 
 > **"Garbage In, Garbage Out (쓰레기가 들어가면 쓰레기가 나온다).  
 > MLOps 엔지니어의 첫 번째 사명은 비정상 데이터가 모델에 닿기 전에 시스템 레벨에서 원천 차단하는 것입니다."**
@@ -180,5 +180,5 @@ python 02_modern_python_and_pydantic/scripts/02_pydantic_validation.py
 
 ---
 
-## 7. 제2강 실습 과제
-이론과 코드를 확인하셨다면, [2강 과제 가이드](assignments/homework_02.md)를 열어 나만의 센서 데이터 검증 스키마를 구현해 보세요!
+## 7. 제3강 실습 과제
+이론과 코드를 확인하셨다면, [3강 과제 가이드](assignments/homework_03.md)를 열어 나만의 센서 데이터 검증 스키마를 구현해 보세요!

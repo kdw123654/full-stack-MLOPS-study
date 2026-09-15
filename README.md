@@ -36,39 +36,42 @@
 ### 🟢 Phase 1: MLOps 엔지니어링 기초 (기반 다지기)
 - [x] **[제1강] [MLOps 환경 세팅 및 Git/GitHub 실무 워크플로우](01_environment_and_git/README.md)**
   - *MLOps 풀스택 개요, VS Code 최적화, Python 가상환경 격리, Git 실무, 환경 진단 스크립트(`check_env.py`)*
-- [x] **[제2강] [모던 파이썬 & 객체지향 설계(OOP) 및 Pydantic 데이터 검증](02_modern_python_and_pydantic/README.md)**
+- [x] **[제2강] [파이썬 기초 바닥부터 완전 정복 (Core Fundamentals)](02_python_basics/README.md)**
+  - *변수, 4대 자료형, 조건문/반복문, List/Dict/Tuple/Set, 컴프리헨션, 함수, 파일 입출력(CSV)*
+- [x] **[제3강] [모던 파이썬 & 객체지향 설계(OOP) 및 Pydantic 데이터 검증](03_modern_python_and_pydantic/README.md)**
   - *Clean Code, Type Hinting(`typing`), Pydantic v2 모델 설계, dataclass, Garbage In 차단*
-- [ ] **[제3강] 터미널과 쉘 스크립트 실무 (PowerShell, Bash, WSL2)**
+- [ ] **[제4강] 터미널과 쉘 스크립트 실무 (PowerShell, Bash, WSL2)**
   - *리눅스 필수 명령어, 자동화 쉘 스크립트, 환경 변수 관리*
 
 ### 🟡 Phase 2: 머신러닝 & 딥러닝 핵심 파이프라인
-- [ ] **[제4강] 프로덕션 데이터 파이프라인 (Pandas & Polars, 데이터 품질 검증)**
-- [ ] **[제5강] Scikit-Learn 머신러닝 실전 파이프라인 (Feature Engineering & 재현성)**
-- [ ] **[제6강] PyTorch 딥러닝 코어 (Dataset, DataLoader, 모듈화 설계, GPU 가속)**
+- [ ] **[제5강] 프로덕션 데이터 파이프라인 (Pandas & Polars, 데이터 품질 검증)**
+- [ ] **[제6강] Scikit-Learn 머신러닝 실전 파이프라인 (Feature Engineering & 재현성)**
+- [ ] **[제7강] PyTorch 딥러닝 코어 (Dataset, DataLoader, 모듈화 설계, GPU 가속)**
 
 ### 🟠 Phase 3: 백엔드 API & 모델 서빙 (Serving & Backend)
-- [ ] **[제7강] FastAPI 기반 초고속 REST API 구축 (비동기 처리, 라우팅, 에러 핸들링)**
-- [ ] **[제8강] 머신러닝 모델 서빙 아키텍처 (인메모리 캐싱, 배치 추론, 동시성 처리)**
-- [ ] **[제9강] Docker 컨테이너화 (Dockerfile 작성, 멀티스테이지 빌드, 이미지 경량화)**
+- [ ] **[제8강] FastAPI 기반 초고속 REST API 구축 (비동기 처리, 라우팅, 에러 핸들링)**
+- [ ] **[제9강] 머신러닝 모델 서빙 아키텍처 (인메모리 캐싱, 배치 추론, 동시성 처리)**
+- [ ] **[제10강] Docker 컨테이너화 (Dockerfile 작성, 멀티스테이지 빌드, 이미지 경량화)**
 
 ### 🔵 Phase 4: 프론트엔드 & 인터랙티브 대시보드 (Full-Stack UI)
-- [ ] **[제10강] Streamlit & Gradio를 활용한 고속 인터랙티브 AI 데모 UI 구축**
-- [ ] **[제11강] 모던 웹 프론트엔드 연동 기초 (HTML/CSS/JS 및 Next.js REST API 통신)**
-- [ ] **[제12강] 실시간 모델 제어 및 예측 결과 인터랙티브 시각화 대시보드**
+- [ ] **[제11강] Streamlit & Gradio를 활용한 고속 인터랙티브 AI 데모 UI 구축**
+- [ ] **[제12강] 모던 웹 프론트엔드 연동 기초 (HTML/CSS/JS 및 Next.js REST API 통신)**
+- [ ] **[제13강] 실시간 모델 제어 및 예측 결과 인터랙티브 시각화 대시보드**
 
 ### 🟣 Phase 5: MLOps 핵심 생태계 (실험 추적 & 버전 관리)
-- [ ] **[제13강] MLflow를 활용한 실험 추적(Tracking) 및 파라미터/메트릭 로깅**
-- [ ] **[제14강] DVC(Data Version Control)를 활용한 대용량 데이터 및 모델 가중치 버전 관리**
-- [ ] **[제15강] MLflow Model Registry를 통한 모델 승인/스테이징/프로덕션 배포 수명주기**
+- [ ] **[제14강] MLflow를 활용한 실험 추적(Tracking) 및 파라미터/메트릭 로깅**
+- [ ] **[제15강] DVC(Data Version Control)를 활용한 대용량 데이터 및 모델 가중치 버전 관리**
+- [ ] **[제16강] MLflow Model Registry를 통한 모델 승인/스테이징/프로덕션 배포 수명주기**
 
 ### 🟤 Phase 6: 파이프라인 자동화 & CI/CD
-- [ ] **[제16강] GitHub Actions를 이용한 CI/CD 자동화 (Ruff, pytest, Docker 자동 빌드)**
-- [ ] **[제17강] 파이프라인 오케스트레이션 (Prefect / Apache Airflow로 파이프라인 스케줄링)**
+- [ ] **[제17강] GitHub Actions를 이용한 CI/CD 자동화 (Ruff, pytest, Docker 자동 빌드)**
+- [ ] **[제18강] 파이프라인 오케스트레이션 (Prefect / Apache Airflow로 파이프라인 스케줄링)**
 
 ### 🔴 Phase 7: 프로덕션 배포 & 관측성 (Final Boss)
-- [ ] **[제18강] 클라우드 배포 기초 & Kubernetes(K8s) 모델 서빙 배포**
-- [ ] **[제19강] 모델 성능 저하 & 데이터 드리프트 실시간 모니터링 (Evidently AI, Prometheus)**
-- [ ] **[제20강] 최종 실전 풀스택 프로젝트: 실시간 감성 분석/이상 탐지 자동 재학습 파이프라인 완성**
+- [ ] **[제19강] 클라우드 배포 기초 & Kubernetes(K8s) 모델 서빙 배포**
+- [ ] **[제20강] 모델 성능 저하 & 데이터 드리프트 실시간 모니터링 (Evidently AI, Prometheus)**
+- [ ] **[제21강] 최종 실전 풀스택 캡스톤 프로젝트: 실시간 예측 및 자동 재학습 파이프라인 완성**
+
 
 ---
 

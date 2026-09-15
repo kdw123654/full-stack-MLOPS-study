@@ -1,0 +1,5 @@
+student_id,name,math,python,status
+S001,홍길동,85,92,PASS
+S002,이순신,95,88,PASS
+S003,강감찬,45,55,FAIL
+S004,신사임당,100,98,PASS
