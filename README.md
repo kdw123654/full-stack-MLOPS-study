@@ -34,10 +34,10 @@
 ## 📚 전체 커리큘럼 & 학습 진도표 (Roadmap)
 
 ### 🟢 Phase 1: MLOps 엔지니어링 기초 (기반 다지기)
-- [ ] **[제1강] [MLOps 환경 세팅 및 Git/GitHub 실무 워크플로우](01_environment_and_git/README.md)**
+- [x] **[제1강] [MLOps 환경 세팅 및 Git/GitHub 실무 워크플로우](01_environment_and_git/README.md)**
   - *MLOps 풀스택 개요, VS Code 최적화, Python 가상환경 격리, Git 실무, 환경 진단 스크립트(`check_env.py`)*
-- [ ] **[제2강] 모던 파이썬 & 객체지향 설계(OOP) 및 Pydantic 데이터 검증**
-  - *Clean Code, Type Hinting(`typing`), Pydantic 모델 설계, dataclass*
+- [x] **[제2강] [모던 파이썬 & 객체지향 설계(OOP) 및 Pydantic 데이터 검증](02_modern_python_and_pydantic/README.md)**
+  - *Clean Code, Type Hinting(`typing`), Pydantic v2 모델 설계, dataclass, Garbage In 차단*
 - [ ] **[제3강] 터미널과 쉘 스크립트 실무 (PowerShell, Bash, WSL2)**
   - *리눅스 필수 명령어, 자동화 쉘 스크립트, 환경 변수 관리*
 
