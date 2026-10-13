@@ -30,6 +30,8 @@ raw_students = [
 
 # 1. 평균을 계산하는 함수를 완성하세요
 def calculate_average(score_list: list) -> float:
+    if not score_list:
+        return 0.0
     # TODO: 합계(sum)와 개수(len)를 이용해 평균을 구하고 반환하세요.
     return round(sum(score_list) / len(score_list), 2)
 

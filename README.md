@@ -40,8 +40,8 @@
   - *변수, 4대 자료형, 조건문/반복문, List/Dict/Tuple/Set, 컴프리헨션, 함수, 파일 입출력(CSV)*
 - [x] **[제3강] [모던 파이썬 & 객체지향 설계(OOP) 및 Pydantic 데이터 검증](03_modern_python_and_pydantic/README.md)**
   - *Clean Code, Type Hinting(`typing`), Pydantic v2 모델 설계, dataclass, Garbage In 차단*
-- [ ] **[제4강] 터미널과 쉘 스크립트 실무 (PowerShell, Bash, WSL2)**
-  - *리눅스 필수 명령어, 자동화 쉘 스크립트, 환경 변수 관리*
+- [x] **[제4강] [터미널과 쉘 스크립트 실무 (PowerShell, Bash, WSL2 & 자동화)](04_terminal_and_shell/README.md)**
+  - *리눅스 필수 명령어, 자동화 쉘 스크립트, 환경 변수 관리, 종료 코드(Exit Code)*
 
 ### 🟡 Phase 2: 머신러닝 & 딥러닝 핵심 파이프라인
 - [ ] **[제5강] 프로덕션 데이터 파이프라인 (Pandas & Polars, 데이터 품질 검증)**
