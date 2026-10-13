@@ -7,13 +7,7 @@ import sys
 import pandas as pd
 import numpy as np
 
-# Windows 콘솔 인코딩 대응
-if sys.platform == "win32":
-    try:
-        sys.stdout.reconfigure(encoding="utf-8")
-        sys.stderr.reconfigure(encoding="utf-8")
-    except Exception:
-        pass
+
 
 # ===============================================================
 # 테스트용 원본 금융 거래 데이터
