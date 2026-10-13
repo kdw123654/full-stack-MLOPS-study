@@ -44,7 +44,8 @@
   - *리눅스 필수 명령어, 자동화 쉘 스크립트, 환경 변수 관리, 종료 코드(Exit Code)*
 
 ### 🟡 Phase 2: 머신러닝 & 딥러닝 핵심 파이프라인
-- [ ] **[제5강] 프로덕션 데이터 파이프라인 (Pandas & Polars, 데이터 품질 검증)**
+- [x] **[제5강] [프로덕션 데이터 파이프라인 (Pandas & Polars, 데이터 품질 검증)](05_production_data_pipeline/README.md)**
+  - *결측치/이상치 정제, Pandas 파이프라인, Rust 기반 Polars의 Lazy 연산, Parquet 저장, 데이터 계약*
 - [ ] **[제6강] Scikit-Learn 머신러닝 실전 파이프라인 (Feature Engineering & 재현성)**
 - [ ] **[제7강] PyTorch 딥러닝 코어 (Dataset, DataLoader, 모듈화 설계, GPU 가속)**
 
